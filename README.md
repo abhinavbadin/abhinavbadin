@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Abhinav Reddy Badinehal</h1>
-<h3 align="center">Software Engineer | Aspiring Data Engineer & AI Enthusiast</h3>
+<h3 align="center">Software Engineer | Aspiring Data & AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhinavbadinehal&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavbadinehal" />
