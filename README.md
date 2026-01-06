@@ -16,7 +16,7 @@
 - 💼 Currently working as a **Software Engineer**, with strong interest in **Data Engineering** and **AI**  
 - 🌱 Learning **Databricks**, **Kafka**, and building real-time data solutions  
 - 💡 Passionate about solving problems at the intersection of **data, AI, and healthcare**  
-- 💬 Ask me about Databricks, .NET, Python, SQL, Flask, React, or building data-driven applications  
+- 💬 Ask me about Databricks, .NET, Python, SQL, Flask, FastAPI, React, or building data-driven applications  
 - 🌐 Connect with me:  
   - 🔗 [My Website](https://abhinavbadin.github.io/abhinavbadinehal.github.io/src/index.html)  
   - 💼 [LinkedIn](https://www.linkedin.com/in/saiabhinavreddybadineh/)
@@ -51,6 +51,7 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHKcFcObnmRpoe-jYLc5cA5htGRQHDUUgMjEegwMpXjYl3mRT7rKOt2VzSlGxtVebXwaQ&usqp=CAU" alt="Flask" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://inmagik.com/blog/images/fastapi-basic-crud/cover.png" alt="FastAPI" width="40" height="40"/></a>
 </p>
 
 <!-- ⚙️ DevOps -->
